@@ -1,0 +1,154 @@
+h1 {
+
+    text-align: center;
+    font-style: oblique;
+    text-decoration: underline;
+    font-weight: bold;
+    color: rgb(200, 255, 0);
+}
+
+body {
+    background-color: rgb(61, 57, 57);
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+img {
+    width: 275px;
+}
+
+li {
+    display: inline;
+}
+
+img.paypal {
+    width: 200px;
+    height: 150px;
+    border: solid 10px blue;
+}
+
+img.western {
+    width: 200px;
+    min-height: 150px;
+    border: solid 10px yellow;
+
+}
+
+li.khlass1 {
+    padding-top: 205px;
+}
+
+img.mital1 {
+    text-align: right 50px;
+    width: 250px;
+    height: 160px;
+    border: solid 10px black;
+    margin-right: 20px;
+
+}
+
+img.mital2 {
+    width: 250x;
+    height: 160px;
+    border: solid 10px rgb(247, 239, 239);
+}
+
+img.mital3 {
+    width: 250px;
+    height: 160px;
+    margin-left: 20px;
+    border: solid 10px black;
+}
+
+p.un {
+    margin: 5px auto 25px;
+    max-width: 500px;
+    font-family: Comic Sans MS;
+    font-size: 20px;
+    color: rgb(19, 192, 204);
+}
+
+p.deux {
+    margin: 10px auto 40px;
+    max-width: 400px;
+    font-family: Comic Sans MS;
+    font-size: 18.5px;
+    color: rgb(19, 192, 204);
+
+}
+
+p.trois {
+    margin: 0px auto 0px;
+    max-width: 500px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 29px;
+    color: rgb(73, 11, 11);
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+p.amtila {
+    margin: 20px auto 0px;
+    max-width: 300px;
+    font-family: Comic Sans MS;
+    font-size: 20px;
+    font-style: italic;
+}
+
+p.raba {
+    margin: 10px auto 0px;
+    max-width: 500px;
+    font-size: 23px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(238, 238, 238);
+}
+
+p.tania {
+    margin: 20px auto 0px;
+    max-width: 300px;
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: bold;
+    color: rgb(73, 11, 11);
+}
+
+p.talta {
+    margin: 20px auto 0px;
+    max-width: 300px;
+    font-size: 23px;
+    font-family: Times;
+    color: yellowgreen;
+
+}
+
+li.hadak {
+    color: rgb(61, 57, 57);
+}
+
+p.lkher {
+    margin: 20px auto 0px;
+    max-width: 500px;
+    font-size: 23px;
+    font-family: Comic;
+    font-style: oblique;
+    font-weight: bold;
+    color: yellow;
+}
+
+p.kholassa {
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 27px;
+    color: pink;
+}
+
+a {
+    background-color: pink;
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+    font-style: oblique;
+    text-decoration: none;
+    font-size: 18px;
+}
